@@ -1,6 +1,6 @@
 # React Distance Calculator
 
-![react-distance-calculator](https://github.com/arturguimaraes/react-distance-calculator/blob/main/src/assets/img/print2.png?raw=true)
+![react-distance-calculator](https://github.com/suyash-78-s/react-distance/react-distance-calculator/blob/main/src/assets/img/print2.png?raw=true)
 
 
 
@@ -8,7 +8,7 @@
 
 1. `Clone repository`
 ```js 
-git clone https://github.com/arturguimaraes/react-distance-calculator.git 
+git clone https://github.com/suyash-78-s/react-distance.git
 ```
 2. `Go to directory`
 ```js 
